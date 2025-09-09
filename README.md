@@ -4,7 +4,7 @@ A chat-style store assistant with a Node.js/Express backend and a React/Vite fro
 
 ## Live Demo
 
-**[Deployed Application URL]**
+https://evoai-store-helper-v9th.vercel.app/
 
 ---
 
