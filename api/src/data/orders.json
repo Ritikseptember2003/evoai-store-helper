@@ -1,0 +1,4 @@
+[
+  {"orderId":"ORD-1001","email":"alice@example.com","status":"Shipped","items":[{"id":"p2","qty":1}],"eta":"2025-09-10"},
+  {"orderId":"ORD-1002","email":"bob@example.com","status":"Processing","items":[{"id":"p1","qty":2}],"eta":"2025-09-12"}
+]

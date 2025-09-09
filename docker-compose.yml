@@ -1,0 +1,8 @@
+services:
+  api:
+    build: ./api
+    container_name: evoai-api
+    ports:
+      - "3001:3001"
+    volumes:
+      - ./api/audit.log:/app/audit.log
