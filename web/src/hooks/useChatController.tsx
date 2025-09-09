@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { ProductCard } from '../components/ProductCard';
 
-const API_BASE_URL = 'http://localhost:3001';
+const API_BASE_URL = 'https://evoai-store-helper-api.onrender.com';
 
 export interface Message {
   id: number;
